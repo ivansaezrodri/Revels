@@ -1,5 +1,5 @@
 # Revels
-
+![](https://i.ibb.co/sCDpkNV/revels-logo.png)
 # Final Project (Documentation) Iván Sáez Rodrigo
 ## _Parts about the final project_
 
@@ -8,9 +8,6 @@
 - Web layout
 - Colours / Typography
 
-[![N|Solid](https://aules.edu.gva.es/fp/pluginfile.php/1/theme_adaptable/logo/1667807290/logo_aulesnew.png)](https://aules.edu.gva.es/fp/mod/page/view.php?id=3458169)
-
-
 
 ## 1. Requirements Specification.
 
@@ -18,7 +15,6 @@ El objetivo del sitio web es crear una red social donde se puedan subir comentar
 
 
 ## 2.  Style guide
-![](https://i.ibb.co/sCDpkNV/revels-logo.png)
 El tema principal de la página web constará mayoritariamente de gamas de blancos, negros e imagenes variadas. He elegido estos colores ya que transmiten poder, prestigio y valor. Además son muy faciles de combinar con otros. 
 - Tipografía elegida: **"Aoboshi One"**.
 - Colores base: **#232323** y **#F5F5F5**.
