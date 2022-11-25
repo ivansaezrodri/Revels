@@ -1,4 +1,4 @@
-![](https://i.ibb.co/sCDpkNV/revels-logo.png)
+![](https://i.ibb.co/6Z4LzDD/revels-titulo.png)
 
 # Final Project (Documentation) Iván Sáez Rodrigo
 ## _Parts about the final project_
@@ -24,15 +24,12 @@ El tema principal de la página web constará mayoritariamente de gamas de blanc
 
 
 ## 3. Web layout
-![](https://i.ibb.co/ynXhwYZ/web-layout.png)
+![](https://i.ibb.co/KjNFnZM/web-layout.png)
 
 Con este esquema podemos observar la navegación del proyecto de Revels con todo detalle, las flechas azules indican la lavegación sin autenticar y las rojas los enlaces autenticados. 
 ### He realizado una maqueta en figma para mostrar el layout que seguiré en Revels
 
 https://www.figma.com/file/ktuoPJrRp00iqOjdgGrfQF/Rebels?t=JpIOCNiEaHDmn5XJ-1
-
-(Le he puesto permisos de lectura, espero que la puedas ver.)
-
 
 
 ## 4. Colours 
@@ -47,7 +44,7 @@ He utilizado principalmente 4 tipos de colores
 | [#4B0D00](https://www.colorhexa.com/4b0d00)| Lo he usado una única vez cuando haces hover sobre el botón de eliminar cuenta en cancelar.html |
 
 ## Typography
-![](https://i.ibb.co/mFmsrXt/DIW-ivan-roboto.png)
+![](https://i.ibb.co/G92vGZK/DIW-ivan-roboto.png)
 
 Para la tipografía he optado por usar para el Logo tipo la fuente **Aoboshi One** que proporciona Figma y para el resto del la aplicación web he utilizado [**Roboto**](https://www.dafont.com/es/roboto.font?text=Diw+Iv%E1n+S%E1ez), la fuenta que suelen usar los dispositivos de *Apple* 
   
