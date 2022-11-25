@@ -1,4 +1,3 @@
-# Revels
 ![](https://i.ibb.co/sCDpkNV/revels-logo.png)
 # Final Project (Documentation) Iván Sáez Rodrigo
 ## _Parts about the final project_
