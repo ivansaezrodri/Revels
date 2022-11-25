@@ -14,7 +14,7 @@
     if (!empty($_POST)) {
         if (isset($_POST['textoRevel'])) {
             # Se revisa de que cumple los requisitos y si los cumple se comenta
-            if (preg_match('/^[A-z\s.,"\-\'0-9]{1,220}$/',$_POST['textoRevel'])) {
+            if (strlen($_POST['textoRevel'])<220) {
                 $fecha = date("Y-m-d H:i:s");
                 require('conexionBBDD.inc.php');
                 $consulta = $conexion->prepare('INSERT INTO comments (id,revelid,userid,texto,fecha) VALUES (NULL,?,?,?,?);');
