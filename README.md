@@ -25,7 +25,7 @@ El tema principal de la página web constará mayoritariamente de gamas de blanc
 ## 3. Web layout
 ![](https://i.ibb.co/ynXhwYZ/web-layout.png)
 Con este esquema podemos observar la navegación del proyecto de Revels con todo detalle, las flechas azules indican la lavegación sin autenticar y las rojas los enlaces autenticados. 
-### He realizado una maqueta por esta asignatura en figma para mostrar el layout que seguiré en Revels
+### He realizado una maqueta en figma para mostrar el layout que seguiré en Revels
 
 https://www.figma.com/file/ktuoPJrRp00iqOjdgGrfQF/Rebels?t=JpIOCNiEaHDmn5XJ-1
 
