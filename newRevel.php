@@ -11,8 +11,8 @@
     # Si viene un POST['textorevel'] se revisa que venga con datos y sean los establecidos
     if (!empty($_POST)) {
         if (isset($_POST['textoRevel'])) {
-            if (preg_match('/^[A-z\s.,"\-\'0-9]{1,220}$/',$_POST['textoRevel'])) {
-                # Si todo está correcto se envía (no tengo muy claro como admitir acentos)
+            if (strlen($_POST['textoRevel'])<220) {
+                # Si todo está correcto se envía 
                 $fecha = date("Y-m-d H:i:s");
                 require_once('conexionBBDD.inc.php');
 
