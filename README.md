@@ -11,11 +11,11 @@
 
 ## 1. Requirements Specification.
 
-El objetivo del sitio web es crear una red social donde se puedan subir comentarios al más puro estilo twitter. En la red social se pondrán en práctica todos los conocimientos vistos en el trimestre en la asignatura DWES. Los usuarios podrán registrarse y autenticarse, buscar usuarios y publicar reveleciones. Cada usuario tendrá un muro en su perfil donde se visualizarán las revelaciones subidas por el mismo y un apartado donde visualizar las revelaciones de los usuarios a los que sigan.
+El objetivo del sitio web era crear una red social donde se puedan subir comentarios al más puro estilo twitter. En la red social se pone en práctica todos los conocimientos vistos en el trimestre en la asignatura de despliegue de aplicaciones web en entorno servidor. Los usuarios pueden registrarse y autenticarse, buscar usuarios y publicar revelaciones. Cada usuario tendrá un muro en su perfil donde se visualizarán las revelaciones subidas por el mismo y un apartado donde visualizar las revelaciones de los usuarios a los que sigan.
 
 
 ## 2.  Style guide
-El tema principal de la página web constará mayoritariamente de gamas de blancos, negros e imagenes variadas. He elegido estos colores ya que transmiten poder, prestigio y valor. Además son muy faciles de combinar con otros. 
+El tema principal de la página web consta mayoritariamente de gamas de blancos, negros e imagenes variadas. He elegido estos colores ya que transmiten poder, prestigio y valor. Además son muy faciles de combinar con otros. 
 - Tipografía elegida: **"Aoboshi One"**.
 - Colores base: **#232323** y **#F5F5F5**.
 - Imagen de la página principal: **https://unsplash.com/es/fotos/X53e51WfjlE**
@@ -27,7 +27,7 @@ El tema principal de la página web constará mayoritariamente de gamas de blanc
 ![](https://i.ibb.co/KjNFnZM/web-layout.png)
 
 Con este esquema podemos observar la navegación del proyecto de Revels con todo detalle, las flechas azules indican la lavegación sin autenticar y las rojas los enlaces autenticados. 
-### He realizado una maqueta en figma para mostrar el layout que seguiré en Revels
+### He realizado una maqueta en figma para mostrar el layout que sigo en Revels
 
 https://www.figma.com/file/ktuoPJrRp00iqOjdgGrfQF/Rebels?t=JpIOCNiEaHDmn5XJ-1
 
